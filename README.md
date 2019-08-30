@@ -1,6 +1,6 @@
 ## Rotation-Feature
 
-Rotation feature map for 4 directions--0, 90, 180, 270 degrees in order by CUDA.
+Rotating feature map for 4 directions--0, 90, 180, 270 degrees in order by CUDA.
 ![rotation feature](image/untitle.png)
 
 #### Install for PyTorch
